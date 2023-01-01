@@ -6,12 +6,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.2",
     "firebase": "^9.15.0",
     "next": "latest",
     "react": "18.2.0",
     "react-bootstrap-icons": "^1.10.2",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.41.3",
+    "react-player": "^2.11.0",
     "recoil": "^0.7.6",
     "tailwind-scrollbar-hide": "^1.1.7"
   },

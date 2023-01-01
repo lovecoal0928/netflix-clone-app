@@ -41,3 +41,13 @@ Recoil
 ```
 yarn add recoil
 ```
+MUI
+(モーダルのスタイリングのために使った)
+```
+yarn add @mui/material @emotion/react @emotion/styled
+```
+React player
+(動画再生とかメディアインターフェースのカスタマイズに使うやつ)
+```
+yarn add react-player
+```
