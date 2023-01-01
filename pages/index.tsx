@@ -28,7 +28,7 @@ const Home = ({
   documentaries
 }: Props) => {
   const { logout, loading } = useAuth()
-
+  // 読み込み中
   if (loading) return null
 
   return (

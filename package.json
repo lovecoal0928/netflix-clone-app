@@ -12,6 +12,7 @@
     "react-bootstrap-icons": "^1.10.2",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.41.3",
+    "recoil": "^0.7.6",
     "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
