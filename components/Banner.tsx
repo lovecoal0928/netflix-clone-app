@@ -19,7 +19,7 @@ const Banner = ({netflixOriginals}: Props) => {
         <div className='absolute top-0 left-0 -z-10 h-[95vh] w-full'>
             <Image
               src={`${baseUrl}${movie?.backdrop_path || movie?.poster_path}`}
-              layout='fill'
+              fill
               objectFit='cover'
               alt=''
             />
